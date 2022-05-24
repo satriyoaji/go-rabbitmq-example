@@ -1,4 +1,4 @@
-module rabbitmq-example
+module github.com/satriyoaji/go-rabbitmq-example
 
 go 1.17
 

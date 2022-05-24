@@ -2,11 +2,11 @@ package main
 
 import (
 	"encoding/json"
+	rabbitmq_example "github.com/satriyoaji/go-rabbitmq-example"
+	"github.com/satriyoaji/go-rabbitmq-example/helpers"
 	"github.com/streadway/amqp"
 	"log"
 	"math/rand"
-	rabbitmq_example "rabbitmq-example"
-	"rabbitmq-example/helpers"
 	"time"
 )
 
